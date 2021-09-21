@@ -1,0 +1,13 @@
+Search and try out any AWS service
+The Console offers over 180 services you can configure, test, and launch to get hands-on experience with AWS. Using the Unified Search feature, find services, features, AWS Marketplace products, and AWS Documentation all from within the Console. There’s also a resource library featuring articles and tips from AWS experts, Getting Started tutorials, on-demand webinars, reference deployment templates, and more.
+Learn more »
+
+Page-Illo-AWS-Management-ConsoleSign-out-Console-Build-and-Scale
+Build and scale powerful applications
+Use the Console and its API, CLI, CloudFormation templates, and other toolkits to build scalable architectures in any AWS data center around the world. You can customize your experience by pinning favorites and organize projects with resource groups and the tag editor. Plus, you’re only one click away from the AWS Marketplace where you’ll find hundreds of popular software products that run on AWS.
+
+Learn more »
+
+Page-Illo-AWS-Management-Console-Sign-out-Console-Manage-and-Monitor
+Manage and monitor your account
+Oversee all administrative aspects of your AWS account from your desktop or mobile device. You can view your usage and monthly spending by service, set up AWS IAM users and groups, configure permissions, and manage security credentials. You can also quickly troubleshoot issues through visual monitoring. If you need extra help, submit a support ticket right from the Console to connect with an AWS expert.
